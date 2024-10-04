@@ -12,8 +12,8 @@ Tenho experiência com uma variedade de tecnologias, incluindo:
 -  **Ruby on Rails**: Construção de aplicações web robustas e eficientes. 
 -  **SQL**: Experiência em bancos de dados relacionais e otimização de consultas. 
 -  **CSS**: Estilização de interfaces com design responsivo e atraente.
--  **Docker**: Desenvolvimento de aplicações interativas e dinâmicas. 
 -  **TypeScript**: Criação de aplicações escaláveis com tipagem estática.
+-  **Docker**: Dockerização . 
 
 ![Ruby](https://img.shields.io/badge/Ruby-3.0-red)
 ![Rails](https://img.shields.io/badge/Rails-7.0-red)

@@ -18,10 +18,9 @@ Tenho experiência sólidas com uma variedade de tecnologias, incluindo:
 ## Pós-Graduação 
 <p> Pós-Graduação em Engenharia de Software </p> 
 <p> Pós-Graduação em Gestão da Tecnologia de Informação </p>  
+<p> Pos-Graduação em Administração de Banco de Dados</p>
 
-## Em Desenvolvimento
-
-http://danieldjam.dev.br 
+https://danieldjam.dev.br 
 
 <!--
 **daniel8486/daniel8486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

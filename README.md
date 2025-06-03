@@ -27,6 +27,7 @@ Tenho experiência sólidas com uma variedade de tecnologias, incluindo:
 <p> Pós-Graduação em Engenharia de Software </p> 
 <p> Pós-Graduação em Gestão da Tecnologia de Informação </p>  
 <p> Pos-Graduação em Administração de Banco de Dados</p>
+<p> Pos-Graduação em Administração de Servidores Linux </p>
 
 https://danieldjam.dev.br 
 

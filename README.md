@@ -4,9 +4,16 @@
 
 <p> 
  
-Graduado em Processamento de Dados, concluída em 2008, e com especialização em desenvolvimento de software. Com mais de uma década de experiência na área de tecnologia, tenho um histórico sólido em análise, desenvolvimento e implementação de soluções de software que atendem às necessidades do negócio e melhoram a eficiência operacional.
-
-Durante minha carreira, desenvolvi habilidades técnicas avançadas em linguagens de programação, bancos de dados e metodologias ágeis, além de uma visão estratégica para alinhar as soluções tecnológicas aos objetivos organizacionais. Minha formação contínua e minha paixão pela inovação têm sido fundamentais para minha atuação em projetos variados, desde sistemas de gestão empresarial até aplicativos personalizados para diferentes setores.
+ Desenvolvedor‬‭ Full‬‭ Stack‬‭ com‬‭ mais‬‭ de‬‭ 20‬‭ anos‬‭ de‬‭ experiência‬‭ em‬
+‭ desenvolvimento‬‭ web‬‭ e‬‭ mobile,‬‭ atuando‬‭ em‬‭ todas‬‭ as‬‭ fases‬‭ do‬‭ ciclo‬‭ de‬‭ vida‬‭ do‬
+‭ software.‬‭ Apaixonado‬‭ por‬‭ Ruby‬‭ on‬‭ Rails,‬‭ React‬‭ e‬‭ React‬‭ Native,‬‭ com‬‭ forte‬
+‭ atuação‬‭ em‬‭ integração‬‭ de‬‭ APIs‬‭ REST/GraphQL,‬‭ infraestrutura‬‭ em‬‭ nuvem‬
+‭ (AWS, DigitalOcean, Oracle Cloud), CI/CD e testes automatizados.‬
+‭ Comprometido‬‭ com‬‭ boas‬‭ práticas‬‭ de‬‭ código,‬‭ com‬‭ foco‬‭ em‬‭ performance,‬
+‭ segurança,‬‭ escalabilidade‬‭ e‬‭ manutenção.‬‭ Entusiasta‬‭ de‬‭ inovação‬‭ tecnológica‬
+‭ e‬‭ aprendizado‬‭ contínuo,‬‭ pronto‬‭ para‬‭ gerar‬‭ valor‬‭ em‬‭ times‬‭ colaborativos‬‭ e‬
+‭ projetos desafiadores.‬
+‭
 </p>
 
 ## Tecnologias

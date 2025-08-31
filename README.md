@@ -22,16 +22,16 @@ Tenho experiência sólidas com uma variedade de tecnologias, incluindo:
 <p> Pos-Graduação em Administração de Banco de Dados</p>
 <p> Pos-Graduação em Administração de Servidores Linux </p>
 
-## Stack Principal
+## Stacks
 
-- **Back-end:** Ruby on Rails · Node.js · Fastify · Express  
+- **Back-end:** Ruby on Rails · Node.js · Fastify · Express · Java 
 - **Front-end:** React.js · Next.js · TailwindCSS · React Native 
 - **DevOps:** Docker · Kubernetes · GitHub Actions · CI/CD  
 - **Bancos de Dados:** PostgreSQL · MySQL · Redis  
 - **Testes:** RSpec · Jest · Cypress  
 - **Arquitetura:** SOLID · Clean Architecture · DDD · Design Patterns  
 
-## 📌 **Projetos em Destaque**
+## Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |----------|-----------|-------------|
@@ -42,7 +42,7 @@ Tenho experiência sólidas com uma variedade de tecnologias, incluindo:
 
 ---
 
-## 📬 **Contato**
+## Contato
 
 - Email: [danielmatos404@email.com](mailto:danielmatos404@gmail.com) | [eu@danieldjam.dev.br](mailto:eu@danieldjam.dev.br)  
 - [LinkedIn](https://www.linkedin.com/in/daniel-matos-b85a2799/)  

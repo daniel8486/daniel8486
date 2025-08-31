@@ -26,7 +26,7 @@ https://danieldjam.dev.br
 
 ## 🛠️ **Stack Principal**
 
-- **Back-end:** Ruby on Rails · Node.js · Fastify  
+- **Back-end:** Ruby on Rails · Node.js · Fastify · Express  
 - **Front-end:** React.js · Next.js · TailwindCSS  
 - **DevOps:** Docker · Kubernetes · GitHub Actions · CI/CD  
 - **Bancos de Dados:** PostgreSQL · MySQL · Redis  
@@ -43,13 +43,6 @@ https://danieldjam.dev.br
 | [**professional_observability_using_docker_for_ruby_on_rails**](https://github.com/daniel8486/professional_observability_using_docker_for_ruby_on_rails) | Stack completa de observabilidade com Docker e ferramentas de monitoramento. | Docker · Rails · Redis |
 | [**aplicacao_solid_ddd_dpatterns_test**](https://github.com/daniel8486/aplicacao_solid_ddd_dpatterns_test) | Projeto de exemplo aplicando SOLID, DDD e Design Patterns. | Node.js · Prisma · Fastify |
 | [**api_services**](https://github.com/daniel8486/api_services) | Coleção de serviços de API para integrações diversas. | Node.js · REST/GraphQL |
-
----
-
-## 📊 **Minhas Estatísticas no GitHub**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniel8486&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel8486&layout=compact&theme=radical)
 
 ---
 

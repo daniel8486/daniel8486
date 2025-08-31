@@ -22,7 +22,7 @@ Tenho experiência sólidas com uma variedade de tecnologias, incluindo:
 ## Stacks
 
 - **Back-end:** Ruby on Rails · Node.js · Fastify · Express · Java 
-- **Front-end:** React.js · Next.js · TailwindCSS · React Native 
+- **Front-end:** React.js · Next.js · TailwindCSS · React Native · HTML · CSS
 - **DevOps:** Docker · Kubernetes · GitHub Actions · CI/CD  
 - **Bancos de Dados:** PostgreSQL · MySQL · Redis  
 - **Testes:** RSpec · Jest · Cypress  

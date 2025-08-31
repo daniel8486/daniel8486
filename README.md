@@ -3,7 +3,7 @@
 ## Sobre
 
 <p>  
-**Engenheiro de Software Full Stack & DevOps** 
+Engenheiro de Software Full Stack & DevOps
 </p>
 <p> 
 Especialista em **arquiteturas escaláveis**, **observabilidade** e **integrações**.  
@@ -48,8 +48,8 @@ https://danieldjam.dev.br
 
 ## 📬 **Contato**
 
-- ✉Email: [danielmatos404@email.com](mailto:danielmatos404@gmail.com) | [eu@danieldjam.dev.br](mailto:eu@danieldjam.dev.br)  
-- [LinkedIn]([https://linkedin.com/in/seulinkedin](https://www.linkedin.com/in/daniel-matos-b85a2799/))  
+- Email: [danielmatos404@email.com](mailto:danielmatos404@gmail.com) | [eu@danieldjam.dev.br](mailto:eu@danieldjam.dev.br)  
+- [LinkedIn](https://www.linkedin.com/in/daniel-matos-b85a2799/)  
 - [Portfólio](https://danieldjam.dev.br)
 
 > “Sempre buscando criar soluções escaláveis, eficientes e de fácil manutenção.”

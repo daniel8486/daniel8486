@@ -22,18 +22,14 @@ Tenho experiência sólidas com uma variedade de tecnologias, incluindo:
 <p> Pos-Graduação em Administração de Banco de Dados</p>
 <p> Pos-Graduação em Administração de Servidores Linux </p>
 
-https://danieldjam.dev.br 
-
-## 🛠️ **Stack Principal**
+## Stack Principal
 
 - **Back-end:** Ruby on Rails · Node.js · Fastify · Express  
-- **Front-end:** React.js · Next.js · TailwindCSS  
+- **Front-end:** React.js · Next.js · TailwindCSS · React Native 
 - **DevOps:** Docker · Kubernetes · GitHub Actions · CI/CD  
 - **Bancos de Dados:** PostgreSQL · MySQL · Redis  
 - **Testes:** RSpec · Jest · Cypress  
 - **Arquitetura:** SOLID · Clean Architecture · DDD · Design Patterns  
-
----
 
 ## 📌 **Projetos em Destaque**
 
@@ -41,8 +37,8 @@ https://danieldjam.dev.br
 |----------|-----------|-------------|
 | [**app_fiscal_ruby**](https://github.com/daniel8486/app_fiscal_ruby) | API fiscal completa para emissão e controle de NF-e. | Ruby on Rails · APIs fiscais |
 | [**professional_observability_using_docker_for_ruby_on_rails**](https://github.com/daniel8486/professional_observability_using_docker_for_ruby_on_rails) | Stack completa de observabilidade com Docker e ferramentas de monitoramento. | Docker · Rails · Redis |
-| [**aplicacao_solid_ddd_dpatterns_test**](https://github.com/daniel8486/aplicacao_solid_ddd_dpatterns_test) | Projeto de exemplo aplicando SOLID, DDD e Design Patterns. | Node.js · Prisma · Fastify |
-| [**api_services**](https://github.com/daniel8486/api_services) | Coleção de serviços de API para integrações diversas. | Node.js · REST/GraphQL |
+| [**aplicacao_solid_ddd_dpatterns_test**](https://github.com/daniel8486/aplicacao_solid_ddd_dpatterns_test) | Projeto de exemplo aplicando SOLID, DDD e Design Patterns. | Node.js · Prisma · Fastify · Observalidade |
+| [**api_services**](https://github.com/daniel8486/api_services) | Coleção de serviços de API para integrações diversas. | Ruby on Rails · REST/GraphQL · Sidekiq · Redis |
 
 ---
 

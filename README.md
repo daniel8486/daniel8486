@@ -3,10 +3,7 @@
 ## Sobre
 
 <p>  
-Engenheiro de Software Full Stack & DevOps
-</p>
-<p> 
-Especialista em **arquiteturas escaláveis**, **observabilidade** e **integrações**.  
+Engenheiro de Software Full Stack e DevOps, com experiência em backend, observabilidade e integrações complexas (fiscais, bancárias e sistemas corporativos), desenvolvendo arquiteturas robustas e escaláveis.
 </p>
 
 ## Tecnologias

@@ -36,7 +36,7 @@ Tenho experiência sólidas com uma variedade de tecnologias, incluindo:
 | [**professional_observability_using_docker_for_ruby_on_rails**](https://github.com/daniel8486/professional_observability_using_docker_for_ruby_on_rails) | Stack completa de observabilidade com Docker e ferramentas de monitoramento. | Docker · Rails · Redis |
 | [**aplicacao_solid_ddd_dpatterns_test**](https://github.com/daniel8486/aplicacao_solid_ddd_dpatterns_test) | Projeto de exemplo aplicando SOLID, DDD e Design Patterns. | Node.js · Prisma · Fastify · Observalidade |
 | [**api_services**](https://github.com/daniel8486/api_services) | Coleção de serviços de API para integrações diversas. | Ruby on Rails · REST/GraphQL · Sidekiq · Redis |
-| [**ruby_rspec_test**](https://github.com/daniel8486/ruby_rspec_test) | Árvores de Arquivo. | Ruby on Rails · RSPEC · Docker |
+| [**ruby_rspec_test**](https://github.com/daniel8486/ruby_rspec_test) | Árvores de Arquivo. | Ruby on Rails · Rspec · Docker |
 
 ---
 

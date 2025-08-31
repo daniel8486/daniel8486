@@ -1,4 +1,4 @@
-## Olá, me chamo Daniel Djam 👋
+## Olá, me chamo Daniel Djam !
 
 ## Sobre
 

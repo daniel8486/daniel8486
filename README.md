@@ -4,15 +4,8 @@
 
 <p> 
  
- Desenvolvedor‬‭ Full‬‭ Stack‬‭ com‬‭ mais‬‭ de‬‭ 20‬‭ anos‬‭ de‬‭ experiência‬‭ em‬
-‭ desenvolvimento‬‭ web‬‭ e‬‭ mobile,‬‭ atuando‬‭ em‬‭ todas‬‭ as‬‭ fases‬‭ do‬‭ ciclo‬‭ de‬‭ vida‬‭ do‬
-‭ software.‬‭ Apaixonado‬‭ por‬‭ Ruby‬‭ on‬‭ Rails,‬‭ React‬‭ e‬‭ React‬‭ Native,‬‭ com‬‭ forte‬
-‭ atuação‬‭ em‬‭ integração‬‭ de‬‭ APIs‬‭ REST/GraphQL,‬‭ infraestrutura‬‭ em‬‭ nuvem‬
-‭ (AWS, DigitalOcean, Oracle Cloud), CI/CD e testes automatizados.‬
-‭ Comprometido‬‭ com‬‭ boas‬‭ práticas‬‭ de‬‭ código,‬‭ com‬‭ foco‬‭ em‬‭ performance,‬
-‭ segurança,‬‭ escalabilidade‬‭ e‬‭ manutenção.‬‭ Entusiasta‬‭ de‬‭ inovação‬‭ tecnológica‬
-‭ e‬‭ aprendizado‬‭ contínuo,‬‭ pronto‬‭ para‬‭ gerar‬‭ valor‬‭ em‬‭ times‬‭ colaborativos‬‭ e‬
-‭ projetos desafiadores.‬
+**Engenheiro de Software Full Stack & DevOps** 
+Especialista em **arquiteturas escaláveis**, **observabilidade** e **integrações fiscais**.  
 ‭
 </p>
 
@@ -30,6 +23,43 @@ Tenho experiência sólidas com uma variedade de tecnologias, incluindo:
 <p> Pos-Graduação em Administração de Servidores Linux </p>
 
 https://danieldjam.dev.br 
+
+## 🛠️ **Stack Principal**
+
+- **Back-end:** Ruby on Rails · Node.js · Fastify  
+- **Front-end:** React.js · Next.js · TailwindCSS  
+- **DevOps:** Docker · Kubernetes · GitHub Actions · CI/CD  
+- **Bancos de Dados:** PostgreSQL · MySQL · Redis  
+- **Testes:** RSpec · Jest · Cypress  
+- **Arquitetura:** SOLID · Clean Architecture · DDD · Design Patterns  
+
+---
+
+## 📌 **Projetos em Destaque**
+
+| Projeto | Descrição | Tecnologias |
+|----------|-----------|-------------|
+| [**app_fiscal_ruby**](https://github.com/daniel8486/app_fiscal_ruby) | API fiscal completa para emissão e controle de NF-e. | Ruby on Rails · APIs fiscais |
+| [**professional_observability_using_docker_for_ruby_on_rails**](https://github.com/daniel8486/professional_observability_using_docker_for_ruby_on_rails) | Stack completa de observabilidade com Docker e ferramentas de monitoramento. | Docker · Rails · Redis |
+| [**aplicacao_solid_ddd_dpatterns_test**](https://github.com/daniel8486/aplicacao_solid_ddd_dpatterns_test) | Projeto de exemplo aplicando SOLID, DDD e Design Patterns. | Node.js · Prisma · Fastify |
+| [**api_services**](https://github.com/daniel8486/api_services) | Coleção de serviços de API para integrações diversas. | Node.js · REST/GraphQL |
+
+---
+
+## 📊 **Minhas Estatísticas no GitHub**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniel8486&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel8486&layout=compact&theme=radical)
+
+---
+
+## 📬 **Contato**
+
+- ✉Email: [danielmatos404@email.com](mailto:danielmatos404@gmail.com) | [eu@danieldjam.dev.br](mailto:eu@danieldjam.dev.br)  
+- [LinkedIn]([https://linkedin.com/in/seulinkedin](https://www.linkedin.com/in/daniel-matos-b85a2799/))  
+- [Portfólio](https://danieldjam.dev.br)
+
+> “Sempre buscando criar soluções escaláveis, eficientes e de fácil manutenção.”
 
 <!--
 **daniel8486/daniel8486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

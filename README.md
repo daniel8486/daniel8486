@@ -43,8 +43,8 @@ Tenho experiência sólidas com uma variedade de tecnologias, incluindo:
 ## Contato
 
 - Email: [danielmatos404@email.com](mailto:danielmatos404@gmail.com) | [eu@danieldjam.dev.br](mailto:eu@danieldjam.dev.br)  
-- [LinkedIn](https://www.linkedin.com/in/daniel-matos-b85a2799/)  
-- [Portfólio](https://danieldjam.dev.br)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/daniel-matos-b85a2799/)  
+- Portfólio: [Portfólio](https://danieldjam.dev.br)
 
 > “Sempre buscando criar soluções escaláveis, eficientes e de fácil manutenção.”
 

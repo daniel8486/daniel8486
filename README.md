@@ -2,11 +2,11 @@
 
 ## Sobre
 
-<p> 
- 
+<p>  
 **Engenheiro de Software Full Stack & DevOps** 
-Especialista em **arquiteturas escaláveis**, **observabilidade** e **integrações fiscais**.  
-‭
+</p>
+<p> 
+Especialista em **arquiteturas escaláveis**, **observabilidade** e **integrações**.  
 </p>
 
 ## Tecnologias

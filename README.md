@@ -14,10 +14,10 @@ Tenho experiência sólidas com uma variedade de tecnologias, incluindo:
 
 ## Graduação e Pós-Graduação
 <p> Tecnologia em Processamento de Dados -> Graduação 2009 </p>
-<p> Pós-Graduação em Engenharia de Software -> Pós Graduação </p> 
-<p> Pós-Graduação em Gestão da Tecnologia de Informação -> Pós Graduação  </p>  
-<p> Pos-Graduação em Administração de Banco de Dados -> Pós Graduação </p>
-<p> Pos-Graduação em Administração de Servidores Linux -> Pós Graduação </p>
+<p> Pós-Graduação em Engenharia de Software </p> 
+<p> Pós-Graduação em Gestão da Tecnologia de Informação </p>  
+<p> Pos-Graduação em Administração de Banco de Dados </p>
+<p> Pos-Graduação em Administração de Servidores Linux </p>
 
 ## Stacks
 

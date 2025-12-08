@@ -3,7 +3,15 @@
 ## Sobre
 
 <p>  
-Engenheiro de Software Full Stack e DevOps, com experiência em backend, observabilidade e integrações complexas (fiscais, bancárias e sistemas corporativos), desenvolvendo arquiteturas robustas e escaláveis.
+Senior Backend Engineer e Tech Lead com 20+ anos de experiência em engenharia de
+software, integrações bancárias, crédito, cobrança e sistemas de alto volume transacional.
+Especialista em Ruby on Rails (Rails 4 a 7), Node.js, APIs REST de alta performance,
+mensageria (Kafka e RabbitMQ), arquitetura em nuvem (AWS), escalabilidade e operação
+de plataformas críticas.
+Experiência profunda com integrações financeiras (SPC, Serasa, Sinqia, Totvs, Bacen,
+Serpro, Gov.br) e desenvolvimento de e-commerce com Magento e Spree Commerce. Forte
+atuação em DevOps, CI/CD, observabilidade, otimização de performance e liderança
+técnica de times multidisciplinares utilizando TDD, DDD, BDD e Clean Architecture.
 </p>
 
 ## Tecnologias

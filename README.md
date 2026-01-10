@@ -49,7 +49,7 @@ Tenho experiência sólidas com uma variedade de tecnologias, incluindo:
 
 
 ## Graduação e Pós-Graduação
-- Tecnologia em Processamento de Dados -> Graduação 2009
+- Tecnologia em Processamento de Dados
 - Pós-Graduação em Engenharia de Software 
 - Pós-Graduação em Gestão da Tecnologia de Informação 
 - Pós-Graduação em Administração de Banco de Dados

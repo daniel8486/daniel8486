@@ -1,4 +1,5 @@
-## Olá, me chamo Daniel Djam !
+## Olá, me chamo Daniel Jonas Alves Matos (Daniel Djam) !
+Senior Backend Engineer • Tech Lead • Software Architect
 
 ## Sobre
 
@@ -10,7 +11,7 @@ mensageria (Kafka e RabbitMQ), arquitetura em nuvem (AWS), escalabilidade e oper
 de plataformas críticas.
 Experiência profunda com integrações financeiras (SPC, Serasa, Sinqia, Totvs, Bacen,
 Serpro, Gov.br) e desenvolvimento de e-commerce com Magento e Spree Commerce. Forte
-atuação em DevOps, CI/CD, observabilidade, otimização de performance e liderança
+atuação em DevOps, CI/CD, Observabilidade, otimização de performance e liderança
 técnica de times multidisciplinares utilizando TDD, DDD, BDD e Clean Architecture.
 </p>
 
@@ -78,7 +79,7 @@ Tenho experiência sólidas com uma variedade de tecnologias, incluindo:
 |----------|-----------|-------------|
 | [**app_fiscal_ruby**](https://github.com/daniel8486/app_fiscal_ruby) | API fiscal completa para emissão e controle de NF-e. | Ruby on Rails · APIs fiscais |
 | [**professional_observability_using_docker_for_ruby_on_rails**](https://github.com/daniel8486/professional_observability_using_docker_for_ruby_on_rails) | Stack completa de observabilidade com Docker e ferramentas de monitoramento. | Docker · Rails · Redis |
-| [**aplicacao_solid_ddd_dpatterns_test**](https://github.com/daniel8486/aplicacao_solid_ddd_dpatterns_test) | Projeto de exemplo aplicando SOLID, DDD e Design Patterns. | Node.js · Prisma · Fastify · Observalidade |
+| [**aplicacao_solid_ddd_dpatterns_test**](https://github.com/daniel8486/aplicacao_solid_ddd_dpatterns_test) | Projeto de exemplo aplicando SOLID, DDD e Design Patterns. | Node.js · Prisma · Fastify · Observabilidade |
 | [**api_services**](https://github.com/daniel8486/api_services) | Coleção de serviços de API para integrações diversas. | Ruby on Rails · REST/GraphQL · Sidekiq · Redis |
 | [**ruby_rspec_test**](https://github.com/daniel8486/ruby_rspec_test) | Árvores de Arquivo. | Ruby on Rails · Rspec · Docker |
 

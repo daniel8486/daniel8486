@@ -1,18 +1,10 @@
 ## Olá, me chamo Daniel Jonas Alves Matos (Daniel Djam) !
-Senior Backend Engineer • Tech Lead • Software Architect
+Senior Backend Engineer • Tech Lead • Software Architect • DevOps
 
 ## Sobre
 
 <p>  
-Senior Backend Engineer e Tech Lead com 20+ anos de experiência em engenharia de
-software, integrações bancárias, crédito, cobrança e sistemas de alto volume transacional.
-Especialista em Ruby on Rails (Rails 4 a 7), Node.js, APIs REST de alta performance,
-mensageria (Kafka e RabbitMQ), arquitetura em nuvem (AWS), escalabilidade e operação
-de plataformas críticas.
-Experiência profunda com integrações financeiras (SPC, Serasa, Sinqia, Totvs, Bacen,
-Serpro, Gov.br) e desenvolvimento de e-commerce com Magento e Spree Commerce. Forte
-atuação em DevOps, CI/CD, Observabilidade, otimização de performance e liderança
-técnica de times multidisciplinares utilizando TDD, DDD, BDD e Clean Architecture.
+Engenheiro de software e Tech Lead com mais de 20 anos de experiência, atuando na construção de sistemas distribuídos, escaláveis e críticos, orientados a alta disponibilidade, segurança e performance. Especialista em Backend, arquitetura em nuvem, microsserviços e integrações complexas, lidero times e projetos com foco em confiabilidade, observabilidade e impacto real no negócio.
 </p>
 
 ## Tecnologias

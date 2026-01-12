@@ -82,7 +82,7 @@ Tenho experiência sólidas com uma variedade de tecnologias, incluindo:
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/daniel-matos-b85a2799/)  
 - Portfólio: [Portfólio](https://danieldjam.dev.br)
 
-> “Sempre buscando criar soluções escaláveis, eficientes e de fácil manutenção.”
+> “Na convergência entre tecnologia, pessoas e processos, surge o ápice da colaboração — onde ideias fluem, times evoluem e o valor se multiplica.”
 
 <!--
 **daniel8486/daniel8486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

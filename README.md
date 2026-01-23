@@ -45,7 +45,6 @@ Tenho experiência sólidas com uma variedade de tecnologias, incluindo:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Cocoapods](https://img.shields.io/cocoapods/l/:spec)
 
 
 

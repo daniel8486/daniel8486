@@ -50,11 +50,11 @@ Tenho experiência sólidas com uma variedade de tecnologias, incluindo:
 
 
 ## Graduação e Pós-Graduação
-- Tecnologia em Processamento de Dados
-- Pós-Graduação em Engenharia de Software 
-- Pós-Graduação em Gestão da Tecnologia de Informação 
-- Pós-Graduação em Administração de Banco de Dados
-- Pós-Graduação em Administração de Servidores Linux 
+- Tecnologia em Processamento de Dados.
+- Pós-Graduação em Engenharia de Software.
+- Pós-Graduação em Gestão da Tecnologia de Informação.
+- Pós-Graduação em Administração de Banco de Dados.
+- Pós-Graduação em Administração de Servidores Linux.
 
 ## Stacks
 

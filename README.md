@@ -1,5 +1,5 @@
-#Olá, me chamo Daniel Jonas Alves Matos (Daniel Djam) !
-### Engenheiro de Software · Tech Lead · Backend · Ruby on Rails · Node.js · Cloud
+##Olá, me chamo Daniel Jonas Alves Matos (Daniel Djam) !
+### Senior Backend Engineer • Tech Lead • Software Architect • DevOps
 
 ## Sobre
 

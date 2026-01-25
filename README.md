@@ -102,6 +102,13 @@ Tenho experiência sólidas com uma variedade de tecnologias, incluindo:
 
 ---
 
+## Idiomas
+
+- **Português:** Nativo  
+- **Inglês:** Técnico / Intermediário (leitura fluente, escrita técnica, conversação boa)  
+- **Espanhol:** Básico / Intermediário.
+
+
 ## Contato
 
 - Email: [danielmatos404@email.com](mailto:danielmatos404@gmail.com) | [eu@danieldjam.dev.br](mailto:eu@danieldjam.dev.br)  

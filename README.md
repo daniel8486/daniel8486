@@ -54,12 +54,32 @@ Tenho experiência sólidas com uma variedade de tecnologias, incluindo:
 - Pós-Graduação em Administração de Banco de Dados.
 - Pós-Graduação em Administração de Servidores Linux.
 
+## Certificações
+- AWS Certified Cloud Practitioner.
+- Linux Foundation Certified IT Associate (LFCA).
+- Linux Foundation Certified System Administrator (LFCS).
+- Associate Cloud Engineer.
+
 ## Cursos de Extensão e Aperfeiçoameto
 - Métodos Ágeis em Engenharia de Software.
 - Testes de Software e Gerência de Configuração.
 - Internet das Coisas IoT.
 - Engenharia de Prompts.
 - Currículos, Programas e Projetos Pedagógicos.
+
+## Cursos Técnicos
+- Clean Code.
+- Docker.
+- Docker para Ruby on Rails.
+- Docker para JavaScript/TypeScript.
+- Formação Node.js.
+- Formação ReactJS.
+- Rest/RESTful APIs com Ruby on Rails.
+- API REST em Node.JS aplicando testes (TDD).
+- TDD com Ruby on Rails, RSpec e Capybara.
+- Padrões de Projeto em ( JAVA, RUBY, JS e TS).
+- GitHub Actions - The complete Guide.
+- The Complete Flutter Development Bootcamp with Dart.
 
 ## Stacks
 

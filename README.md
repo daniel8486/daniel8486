@@ -1,4 +1,5 @@
-## Olá, me chamo Daniel Jonas Alves Matos (Daniel Djam) !
+#Olá, me chamo Daniel Jonas Alves Matos (Daniel Djam) !
+### Engenheiro de Software · Tech Lead · Backend · Ruby on Rails · Node.js · Cloud
 
 ## Sobre
 
@@ -81,7 +82,7 @@ Tenho experiência sólidas com uma variedade de tecnologias, incluindo:
 - GitHub Actions - The complete Guide.
 - The Complete Flutter Development Bootcamp with Dart.
 
-## Stacks
+## Stacks e Especialidades Técnicas
 
 - **Back-end:** Ruby on Rails · Node.js · Fastify · Express · Java · PHP(LARAVEL)
 - **Front-end:** React.js · Next.js · TailwindCSS · React Native · HTML · CSS
@@ -105,8 +106,8 @@ Tenho experiência sólidas com uma variedade de tecnologias, incluindo:
 ## Idiomas
 
 - **Português:** Nativo  
-- **Inglês:** Técnico / Intermediário (leitura fluente, escrita técnica, conversação boa)  
-- **Espanhol:** Básico / Intermediário.
+- **Inglês:** Proficiência técnica / Intermediário-avançado  
+- **Espanhol:** Básico / Intermediário
 
 
 ## Contato

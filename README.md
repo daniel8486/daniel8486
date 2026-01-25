@@ -47,14 +47,19 @@ Tenho experiência sólidas com uma variedade de tecnologias, incluindo:
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 
-
-
 ## Graduação e Pós-Graduação
 - Tecnologia em Processamento de Dados.
 - Pós-Graduação em Engenharia de Software.
 - Pós-Graduação em Gestão da Tecnologia de Informação.
 - Pós-Graduação em Administração de Banco de Dados.
 - Pós-Graduação em Administração de Servidores Linux.
+
+## Cursos de Extensão e Aperfeiçoameto
+- Métodos Ágeis em Engenharia de Software.
+- Testes de Software e Gerência de Configuração.
+- Internet das Coisas IoT.
+- Engenharia de Prompts.
+- Currículos, Programas e Projetos Pedagógicos.
 
 ## Stacks
 

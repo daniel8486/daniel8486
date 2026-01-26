@@ -78,7 +78,7 @@ Tenho experiência sólidas com uma variedade de tecnologias, incluindo:
 - Rest/RESTful APIs com Ruby on Rails.
 - API REST em Node.JS aplicando testes (TDD).
 - TDD com Ruby on Rails, RSpec e Capybara.
-- Padrões de Projeto em ( JAVA, RUBY, JS e TS).
+- Padrões de Projeto.
 - GitHub Actions - The complete Guide.
 - The Complete Flutter Development Bootcamp with Dart.
 
